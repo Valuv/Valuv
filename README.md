@@ -1,4 +1,4 @@
-<h1 align="center">Hellow World! I'm Valentina Uribe Valencia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World! I'm Valentina Uribe Valencia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23004992&size=30&center=true&vCenter=true&width=600&height=100&lines=Game+Developer;Digital+Entertainment;Unity+C-sharp;Always+learning">
@@ -6,7 +6,7 @@
 
 </p>
 
-## About me 
+## About Me 
 - :school: Communication and Digital Entertainment at the [Universidad de Medellín](https://comunicacion.udemedellin.edu.co/carrera-en-comunicacion-y-entretenimiento-digital/#gsc.tab=0).
 - I've been working as a programming teacher for kids at [Algorithmics Medellín](https://www.linkedin.com/company/algorithmics-medellin/posts/?feedView=all) for over two years.
 - Game Programmer 🦾
