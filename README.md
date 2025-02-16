@@ -8,7 +8,7 @@
 
 ## About Me 
 - :school: Communication and Digital Entertainment at the [Universidad de Medellín](https://comunicacion.udemedellin.edu.co/carrera-en-comunicacion-y-entretenimiento-digital/#gsc.tab=0).
-- I've been educated as Game Developer by [Academy By Polygonus]([Academy By Polygonus]([https://www.linkedin.com/company/algorithmics-medellin/posts/?feedView=all](https://www.academy.polygon.us/program/desarrollo-videojuegos))) for over two years.
+- I've been educated as Game Developer by [Academy By Polygonus]([Academy By Polygonus](https://www.linkedin.com/company/algorithmics-medellin/posts/?feedView=all](https://www.academy.polygon.us/program/desarrollo-videojuegos))) for over two years.
 - Game Programmer 🦾
 - Passionate about videogames🎮
 - Great communication skills💬
