@@ -8,7 +8,7 @@
 
 ## About Me 
 - :school: Communication and Digital Entertainment at the [Universidad de Medellín](https://comunicacion.udemedellin.edu.co/carrera-en-comunicacion-y-entretenimiento-digital/#gsc.tab=0).
-- I've been educated as Game Developer by [Academy By Polygonus](https://www.linkedin.com/company/algorithmics-medellin/posts/?feedView=all](https://www.academy.polygon.us/program/desarrollo-videojuegos)) and as a QA tester by [Frecuencia Gamer]([https://comunicacion.udemedellin.edu.co/carrera-en-comunicacion-y-entretenimiento-digital/#gsc.tab=0](https://frecuenciagamer.com)).
+- :school: I've been educated as a Game Developer by [Academy By Polygonus](https://www.academy.polygon.us/program/desarrollo-videojuegos) and as a QA tester by [Frecuencia Gamer](https://frecuenciagamer.com).
 - Game Programmer 🦾
 - Passionate about videogames🎮
 - Great communication skills💬
