@@ -6,7 +6,7 @@
 
 </p>
 
-## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJzZmNhcHNhc2RwbThhZXhjY2kydnB3N2RoNWlpd3pjNWRuZzQwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width = 50px></picture> About me 
+## About me 
 - :school: Communication and Digital Entertainment at the [Universidad de Medellín](https://comunicacion.udemedellin.edu.co/carrera-en-comunicacion-y-entretenimiento-digital/#gsc.tab=0).
 - I've been working as a programming teacher for kids at [Algorithmics Medellín](https://www.linkedin.com/company/algorithmics-medellin/posts/?feedView=all) for over two years.
 - Game Programmer 🦾
