@@ -18,7 +18,10 @@
 
  
 ## 🛠️ Lenguages and Main Tools
-[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=red&link=https%3A%2F%2Funity.com%2Fes)]((https://unity.com/))
+[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=red&link=https%3A%2F%2Funity.com%2Fes)](https://unity.com/)
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&color=purple&link=https%3A%2F%2Funity.com%2Fes)
+![Static Badge](https://img.shields.io/badge/C_Sharp-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 
 ## 🛠️ Other Tools
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
