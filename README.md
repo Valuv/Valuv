@@ -24,9 +24,10 @@
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Unreal](https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=unreal&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)](https://dotnet.microsoft.com/es-es/languages/csharp)
 
+
 ## 🛠️ Other Tools
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
+[![CSS](https://img.shields.io/badge/C_Sharp-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 <!--
 **Valuv/Valuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
